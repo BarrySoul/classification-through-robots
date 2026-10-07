@@ -31,9 +31,5 @@ tmp/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large local data and model artifacts
+# Ignore only the raw dataset folder
 data/raw/
-data/results/
-models/
-*.csv
-*.joblib
